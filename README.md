@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Bloggo (users frontend)
 
 User-facing frontend for bloggo megaproject. 
 
