@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f91ea631.css",
+    "main.js": "/static/js/main.87094b2c.js",
+    "static/media/moon_and_stars.png": "/static/media/moon_and_stars.e5f6483fd19d66df7b9c.png",
+    "static/media/butterfly.png": "/static/media/butterfly.a241735b49be1863283a.png",
+    "static/media/usericon.png": "/static/media/usericon.35c7686dc1248aa2141e.png",
+    "index.html": "/index.html",
+    "main.f91ea631.css.map": "/static/css/main.f91ea631.css.map",
+    "main.87094b2c.js.map": "/static/js/main.87094b2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91ea631.css",
+    "static/js/main.87094b2c.js"
+  ]
+}
