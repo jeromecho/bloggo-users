@@ -1,7 +1,7 @@
 {
   "name": "users",
   "version": "0.1.0",
-  "jomepage": "http://jeromecho.github.io/bloggo-users",
+  "homepage": "https://jeromecho.github.io/bloggo-users",
   "private": true,
   "dependencies": {
     "@babel/plugin-syntax-jsx": "^7.18.6",
